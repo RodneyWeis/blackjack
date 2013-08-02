@@ -1,0 +1,10 @@
+Blackjack - Program considerations.
+
+/* General, Deck, Shuffle */
+
+- Deck of cards = 52 cards, no wild cards.
+- Number of decks in a shoe (up to 8?).  Test with one deck, keep modular for future expansion.
+- Shuffle cards: shuffle once, store in a stock array.  Deal next card (last card from array, chop end?)
+- Set shuffle point, shuffle after hand in which the shuffle point is reached.
+
+/* Mechanics of Hand Play */
