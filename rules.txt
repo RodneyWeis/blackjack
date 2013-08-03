@@ -1,0 +1,13 @@
+Rules for BlackJack initial implementation
+20130802
+
+Dealer:
+
+Stands on all 17's
+
+Player:
+
+No surrender option
+Double down on any two cards
+No splitting
+Insurance option @ 2:1
