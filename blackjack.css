@@ -75,6 +75,10 @@ html {
 	color: #fff;
 }
 
+body {
+    background: url(images/tableau.png) no-repeat fixed 50% 50%;
+}
+
 /* Structure & Block-level Elements */
 
 footer, header {
