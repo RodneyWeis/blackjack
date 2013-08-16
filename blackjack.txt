@@ -8,3 +8,15 @@ Blackjack - Program considerations.
 - Set shuffle point, shuffle after hand in which the shuffle point is reached.
 
 /* Mechanics of Hand Play */
+
+
+
+*************************
+Edit - 20130815
+*************************
+
+Possible alignment with project proposal via Charles Mousseau. 
+
+He is seeking a front-end dev to implement Casino card simulations / etc. in conjunction with his back-end programming.
+
+Under serious consideration.
